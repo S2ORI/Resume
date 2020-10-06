@@ -2,4 +2,4 @@
 ---
 ![이력서사진](2020.jpg)
 
-<imag src = 2020.jpg height = 150 widht = 100>
+<imag src=2020.jpg height=150 widht=100>
