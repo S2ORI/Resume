@@ -1,4 +1,4 @@
-# 한림대학교 소프트웨어융합대학
+# Introduce myself
 ---
 <img src=2020.jpg height=150 widht=100>
 
