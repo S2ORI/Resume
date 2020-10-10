@@ -2,11 +2,11 @@
 ---
 <img src=2020.jpg height=150 widht=100>
 
-<span style= "color:red">이름</span> : 김소리   
-<span style= "color:orange">생년월일</span> : 1999.04.06   
-<span style= "color:yellow">소속</span> : 소프트웨어융합대학   
-<span style= "color:green">전공</span> : 빅데이터 전공   
-<span style= "color:blue">부전공</span> : 디지털미디어콘텐츠
+이름 : 김소리   
+생년월일 : 1999.04.06   
+소속 : 소프트웨어융합대학   
+전공 : 빅데이터 전공   
+부전공 : 디지털미디어콘텐츠
 
 - - -
 
