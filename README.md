@@ -1,4 +1,4 @@
-# Introduce myself
+# *Introduce myself*
 ---
 <img src=2020.jpg height=150 widht=100>
 
@@ -9,14 +9,11 @@
 
 - - -
 
-프로그래밍 언어 스킬   
-1. C
-2. java
-3. python
-4. R
-
+| ||출신학교|
+|초등학교||풍산초등학교|
+|중학교||하남중학교|
+|고등학교||미사고등학교|
 - - -
-
 
 
 github address:[S2ORI][github]
