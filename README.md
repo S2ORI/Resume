@@ -18,5 +18,7 @@
 
 
 github address:[S2ORI][github]
+instagram address:[_s2orida][insta]
 
 [github]:http://github.com/S2ORI
+[insta]:https://www.instagram.com/_s2orida/
